@@ -9,6 +9,7 @@ A cross-platform desktop video editor written in C++.
 - Video transitions
 - Masking
 - Watermark overlay
+- 
 
 ## Project Structure
 - `src/` - Source files
