@@ -1,0 +1,4 @@
+/home/odat/video-editor/video-editor-cpp/CMakeFiles/rebuild_cache.dir
+/home/odat/video-editor/video-editor-cpp/CMakeFiles/edit_cache.dir
+/home/odat/video-editor/video-editor-cpp/CMakeFiles/video_editor.dir
+/home/odat/video-editor/video-editor-cpp/CMakeFiles/video_editor_autogen.dir
